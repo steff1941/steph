@@ -1,0 +1,25 @@
+body{
+	margin :0px;
+	padding: 0px;
+	background-color: linear-gradient(#F9A5A5,red,#C40C0C,#F9A5A5);
+
+}
+.card{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+	margin-top: 100px;
+}
+.left{
+	margin-top: 10px;
+	font-family: Times New Roman, Arial, sans-serif;
+	font-size: 10px;
+	padding: 20px;
+	background-color: black;
+	color: #fff;
+}
+.right img{
+	margin-top: -100px;
+	width: 300px;
+	height: 400px;
+}
